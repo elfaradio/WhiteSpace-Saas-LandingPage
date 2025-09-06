@@ -5,7 +5,7 @@
 👉 [View Live](https://elfaradio.github.io/WhiteSpace-Saas-LandingPage/)
 
 ## 📸 Preview
-![Project Preview](./screenshot.png)
+![Project Preview](Preview/1.png)
 
 
 
