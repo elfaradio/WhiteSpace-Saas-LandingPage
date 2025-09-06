@@ -13,5 +13,5 @@
 
 Clone the repo:
 ```bash
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/elfaradio/WhiteSpace-Saas-LandingPage.git
+cd <WhiteSpace-Saas-LandingPage>
