@@ -14,4 +14,4 @@
 Clone the repo:
 ```bash
 git clone https://github.com/elfaradio/WhiteSpace-Saas-LandingPage.git
-cd <WhiteSpace-Saas-LandingPage>
+cd WhiteSpace-Saas-LandingPage
